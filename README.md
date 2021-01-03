@@ -70,6 +70,8 @@ Pasos para aplicar el teorema de  superposicion :
 
 4. Realizar las sumas algebraicas de  las corrientes producidas por cada fuente individual , realizado se hace los calculos normales con la ley de Ohm.
 
+![](https://github.com/iaportero/Trabajo-de-Investigacion-P1/blob/main/Imagen/Imagen%205.png)
+
 
 
 
