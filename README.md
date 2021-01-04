@@ -9,7 +9,9 @@ Objetivo  general
 
 * Familiriarizasre y implementar los metodos y conversiones  presentados en en el capitulo 8  para la resolucion de ciertos tipos  de circuitos.
 
+
 Objetivo especifico
+
 
 * Presentacion de las caracteristicas de una fuente de voltaje cd y de  una fuente de corriente.
 
@@ -19,7 +21,10 @@ Objetivo especifico
 
 * Aplicar el teorema de transferencia de potencia maxima  en el analisis de circuitos.
 
-Desarrollo :
+* Determinar el teorema delta a Y , Y a delta en el analisis de un determinado circuito
+
+
+Marco Teorico :
 
 *  Fuente de voltaje cd 
 
@@ -73,6 +78,196 @@ Pasos para aplicar el teorema de  superposicion :
 ![](https://github.com/iaportero/Trabajo-de-Investigacion-P1/blob/main/Imagen/Imagen%205.png)
 
 
+* Teorema de Thevenin
+
+El teorema de Thevenin es un metodo para simplificar un circuito en una forma equivalente estandar
+
+El equivalente de Thevenin de cualquier circuito resistivo de dos terminales consta de dos partes de la fuente de voltaje equivalente (Vth) y una resistencia equivalente (Rth)
+
+* Voltaje equivalente de Thevenin (Vth)
+
+En un circuito , el Vth es el voltaje del circuito abierto(sin carga) , que esta entre dos terminales de salida.
+
+
+
+![](https://github.com/doalulema/Informe/blob/master/img/Diagrama1.jpg)
+
+imagen 7
+
+
+
+
+* Resistencia equivalente de Thevenin (Rth)
+
+Es la resistencia total que aparece entre dos terminales en un circuito que tiene todas las fuentes reemplazadas por su resistencia interna
+
+
+
+![](https://github.com/doalulema/Informe/blob/master/img/Diagrama1.jpg)
+
+
+imagen 8
+
+
+
+
+* Pasos para aplicar el teorema de Thevenin
+
+1.  Eliminar las cargas  del circuito ( Abrir dos terminales).
+
+2.  Calcular el voltaje de Thevenin en las terminales abiertas
+
+3.  Calcular la resistencia de Thevenin entre las dos terminales abiertas con las fuentes reemplazadaz, de corriente (abierta) y voltaje (cortocircuito) respectivamente.
+
+4. Conectar Vth y Rth en serie para producir la equivalente de Thevenin
+
+5. Reemplazar la carga en las terminales reemplazadas del paso 1 , de ahi utilizar ley de Ohm para los calculos del circuito original.
+
+
+
+Ejemplo :
+
+
+![](https://github.com/doalulema/Informe/blob/master/img/Diagrama1.jpg)
+
+
+imagen  6
+
+
+
+* Teorema de Norton
+
+Es un metodo empleado para simplificar un circuito lineal de dos terminales en un circuitoequivalente con una fuente de corriente en paralelo con un resistor.Se denomina la fuente de corriente como In y la resistencia Rn.
+
+
+![](https://github.com/doalulema/Informe/blob/master/img/Diagrama1.jpg)
+
+
+Imagen 9
+
+
+
+* Corriente equivalente de Norton (In)
+
+Es la corriente que se encuentra en cortocircuito entre dos terminales de salida de un circuito
+
+
+
+
+![](https://github.com/doalulema/Informe/blob/master/img/Diagrama1.jpg)
+
+
+Imagen 10
+
+
+
+* Resistencia equivalente de Norton (Rn)
+
+La resistencia equivalente de Norton sse emplea de igual manera que la resistencia de Thevenin. Es la resistencia total que aparece entre dos terminales de salida que tiene las fuentes reemplazadas por sus resistencias internas.
+
+
+* Pasos para aplicar el teorema de Norton
+
+1.  Poner en cortocircuito las dos terminales que se desea determinar el equivalente de Norton.
+
+2.  Determinar la corriente de Norton en las terminales en cortocircuito.
+
+3.  Determinar la resistencia de Norton con las terminales abiertas y con las fuentes reemplazadas, en corriente (abierta) y voltaje (cortocircuito) al igual que se hace en la resistencia de Thevenin.
+
+4.  Calcular In y Rn con el circuito en paralelo para que se produzca el equivalente de Norton.
+
+
+*  Teorema de transferencia de potencia maxima
+
+Para una fuente de voltaje dada , la potencia maxima se transfiere desde una fuente hasta una carga cuando la resistencia de la carga es igual a la resistencia interna de la fuente.
+
+Se transfiere potencia maxima cunado Rs=Rl
+
+
+
+![](https://github.com/doalulema/Informe/blob/master/img/Diagrama1.jpg)
+
+
+Imagen 11
+
+
+
+* Conversiones Delta a Y , Y a Delta
+
+Las conversiones entre este tipo de circuitos tipo delta y Y son muy utiles en aplicaciones especializadas de tres terminales,un ejemplo claro es de un circuito con puente Wheatstone con carga.
+
+
+![](https://github.com/doalulema/Informe/blob/master/img/Diagrama1.jpg)
+
+
+Imagen 12
+
+
+*  Conversion de Delta a Y
+
+Se requiere que R1 , R2, R3 debe estar en funcion de RA ,RB ,RC
+
+
+
+![](https://github.com/doalulema/Informe/blob/master/img/Diagrama1.jpg)
+
+
+Imagen 13
+
+
+
+Se emplea las siguientes formulas:
+
+
+![](https://github.com/doalulema/Informe/blob/master/img/Diagrama1.jpg)
+
+
+Imagen 14
+
+
+![](https://github.com/doalulema/Informe/blob/master/img/Diagrama1.jpg)
+
+
+
+Imagen 15
+
+
+![](https://github.com/doalulema/Informe/blob/master/img/Diagrama1.jpg)
+
+
+imagen 16
+
+
+* Conversion de Y a Delta
+
+Para realizar esta conversion RA ,RB , RC debe de estar en funcion de R1 , R2 ,R3
+
+Se emplea las sigueientes formulas:
+
+
+
+![](https://github.com/doalulema/Informe/blob/master/img/Diagrama1.jpg)
+
+
+Imagen 17
+
+![](https://github.com/doalulema/Informe/blob/master/img/Diagrama1.jpg)
+
+
+Imagen 18
+
+
+![](https://github.com/doalulema/Informe/blob/master/img/Diagrama1.jpg)
+
+
+
+Imagen 19
+
+
+Desarrollo:
+
+
+Conclusiones:
 
 
 
@@ -81,10 +276,6 @@ Pasos para aplicar el teorema de  superposicion :
 
 
 
-
-
-
- 
 
  
  
