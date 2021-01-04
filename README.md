@@ -90,9 +90,9 @@ En un circuito , el Vth es el voltaje del circuito abierto(sin carga) , que esta
 
 
 
-![](https://github.com/doalulema/Informe/blob/master/img/Diagrama1.jpg)
+![](https://github.com/iaportero/Trabajo-de-Investigacion-P1/blob/main/Imagen/imagen%207.png)
 
-imagen 7
+
 
 
 
@@ -103,10 +103,10 @@ Es la resistencia total que aparece entre dos terminales en un circuito que tien
 
 
 
-![](https://github.com/doalulema/Informe/blob/master/img/Diagrama1.jpg)
+![](https://github.com/iaportero/Trabajo-de-Investigacion-P1/blob/main/Imagen/Imagen%208.png)
 
 
-imagen 8
+
 
 
 
@@ -128,10 +128,10 @@ imagen 8
 Ejemplo :
 
 
-![](https://github.com/doalulema/Informe/blob/master/img/Diagrama1.jpg)
+![](https://github.com/iaportero/Trabajo-de-Investigacion-P1/blob/main/Imagen/imagen%206.png)
 
 
-imagen  6
+
 
 
 
@@ -140,10 +140,10 @@ imagen  6
 Es un metodo empleado para simplificar un circuito lineal de dos terminales en un circuitoequivalente con una fuente de corriente en paralelo con un resistor.Se denomina la fuente de corriente como In y la resistencia Rn.
 
 
-![](https://github.com/doalulema/Informe/blob/master/img/Diagrama1.jpg)
+![](https://github.com/iaportero/Trabajo-de-Investigacion-P1/blob/main/Imagen/Imagen%209.png)
 
 
-Imagen 9
+
 
 
 
@@ -154,10 +154,10 @@ Es la corriente que se encuentra en cortocircuito entre dos terminales de salida
 
 
 
-![](https://github.com/doalulema/Informe/blob/master/img/Diagrama1.jpg)
+![](https://github.com/iaportero/Trabajo-de-Investigacion-P1/blob/main/Imagen/Imagen%2010.png)
 
 
-Imagen 10
+
 
 
 
@@ -185,10 +185,10 @@ Se transfiere potencia maxima cunado Rs=Rl
 
 
 
-![](https://github.com/doalulema/Informe/blob/master/img/Diagrama1.jpg)
+![](https://github.com/iaportero/Trabajo-de-Investigacion-P1/blob/main/Imagen/Imagen%2011.png)
 
 
-Imagen 11
+
 
 
 
@@ -197,10 +197,10 @@ Imagen 11
 Las conversiones entre este tipo de circuitos tipo delta y Y son muy utiles en aplicaciones especializadas de tres terminales,un ejemplo claro es de un circuito con puente Wheatstone con carga.
 
 
-![](https://github.com/doalulema/Informe/blob/master/img/Diagrama1.jpg)
+![](https://github.com/iaportero/Trabajo-de-Investigacion-P1/blob/main/Imagen/imagen%2012.png)
 
 
-Imagen 12
+
 
 
 *  Conversion de Delta a Y
@@ -209,33 +209,33 @@ Se requiere que R1 , R2, R3 debe estar en funcion de RA ,RB ,RC
 
 
 
-![](https://github.com/doalulema/Informe/blob/master/img/Diagrama1.jpg)
+![](https://github.com/iaportero/Trabajo-de-Investigacion-P1/blob/main/Imagen/Imagen%2013.png)
 
 
-Imagen 13
+
 
 
 
 Se emplea las siguientes formulas:
 
 
-![](https://github.com/doalulema/Informe/blob/master/img/Diagrama1.jpg)
-
-
-Imagen 14
-
-
-![](https://github.com/doalulema/Informe/blob/master/img/Diagrama1.jpg)
+![](https://github.com/iaportero/Trabajo-de-Investigacion-P1/blob/main/Imagen/Imagen%2014.png)
 
 
 
-Imagen 15
 
 
-![](https://github.com/doalulema/Informe/blob/master/img/Diagrama1.jpg)
+![](https://github.com/iaportero/Trabajo-de-Investigacion-P1/blob/main/Imagen/Imagen%2015.png)
 
 
-imagen 16
+
+
+
+
+![](https://github.com/iaportero/Trabajo-de-Investigacion-P1/blob/main/Imagen/Imagen16.png)
+
+
+
 
 
 * Conversion de Y a Delta
@@ -246,22 +246,22 @@ Se emplea las sigueientes formulas:
 
 
 
-![](https://github.com/doalulema/Informe/blob/master/img/Diagrama1.jpg)
-
-
-Imagen 17
-
-![](https://github.com/doalulema/Informe/blob/master/img/Diagrama1.jpg)
-
-
-Imagen 18
-
-
-![](https://github.com/doalulema/Informe/blob/master/img/Diagrama1.jpg)
+![](https://github.com/iaportero/Trabajo-de-Investigacion-P1/blob/main/Imagen/Imagen%2017.png)
 
 
 
-Imagen 19
+
+![](https://github.com/iaportero/Trabajo-de-Investigacion-P1/blob/main/Imagen/Imagen%2018.png)
+
+
+
+
+
+![](https://github.com/iaportero/Trabajo-de-Investigacion-P1/blob/main/Imagen/Imagen%2019.png)
+
+
+
+
 
 
 Desarrollo:
@@ -269,10 +269,22 @@ Desarrollo:
 
 Conclusiones:
 
+*  Con el teorema de superposicion , en un circuito de diversas fuentes este proporciona un metodo de analisis apropiado.
+
+*  el circuito equivalente de Thevenin siempre aparece en la forma de una fuente  de
+voltaje equivalente en serie con una resistencia equivalente haciendo caso omiso del circuito original
+que reemplaza.
+
+* Cualquier resistor de carga conectado entre las terminales de salida de un circuito equivalente
+Norton tendrá la misma corriente a través de él y el mismo voltaje entre sus terminales como si
+estuviera conectado a las terminales de salida del circuito original.
+
+*  La transferencia de potencia maxima se da cuando la resistencia de la carga es igual a la resistencia interna  de la fuente.
 
 
+Bibliografia
 
-
+Principios de Circuitos Electricos, Floyd .L.Thomas,Mexico 2007,Recuperado:3-01-2021 ,Capitulo  8 , Pag :281-310
 
 
 
