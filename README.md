@@ -260,7 +260,7 @@ Se emplea las sigueientes formulas:
 ![](https://github.com/iaportero/Trabajo-de-Investigacion-P1/blob/main/Imagen/Imagen%2019.png)
 
 
-Diagrams:
+Diagramas :
 
 ![](https://github.com/iaportero/Trabajo-de-Investigacion-P1/blob/main/Imagen/Superposicion_y_Transformacion_de_Fuentes.png)
 
