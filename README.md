@@ -269,6 +269,7 @@ Diagramas :
 
 Desarrollo:
 
+https://github.com/iaportero/Trabajo-de-Investigacion-P1/tree/main/Hojas%20tecnicas
 
 Conclusiones:
 
