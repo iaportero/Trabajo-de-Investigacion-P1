@@ -24,7 +24,7 @@ Objetivo especifico
 * Determinar el teorema delta a Y , Y a delta en el analisis de un determinado circuito
 
 
-Marco Teorico :
+Marco Teorico / Diagramas :
 
 *  Fuente de voltaje cd 
 
@@ -260,6 +260,9 @@ Se emplea las sigueientes formulas:
 ![](https://github.com/iaportero/Trabajo-de-Investigacion-P1/blob/main/Imagen/Imagen%2019.png)
 
 
+Diagrams:
+
+![](https://github.com/iaportero/Trabajo-de-Investigacion-P1/blob/main/Imagen/Superposicion_y_Transformacion_de_Fuentes.png)
 
 
 
