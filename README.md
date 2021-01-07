@@ -271,6 +271,12 @@ Desarrollo:
 
 https://github.com/iaportero/Trabajo-de-Investigacion-P1/tree/main/Hojas%20tecnicas
 
+
+Aportaciones :
+
+https://github.com/iaportero/Trabajo-de-Investigacion-P1/tree/main/Aportaciones
+
+
 Conclusiones:
 
 *  Con el teorema de superposicion , en un circuito de diversas fuentes este proporciona un metodo de analisis apropiado.
@@ -291,12 +297,16 @@ Bibliografia
 Principios de Circuitos Electricos, Floyd .L.Thomas,Mexico 2007,Recuperado:3-01-2021 ,Capitulo  8 , Pag :281-310
 
 
+norenelson. (2021). teorema de Thevenin y Zbarra. Retrieved 5 January 2021, from https://es.slideshare.net/norenelson/teorema-de-thevenin-y-zbarra
 
 
+Ley de Kirchhoff: Análisis de mallas. - HETPRO/TUTORIALES. (2021). Retrieved 5 January 2021, from https://hetpro-store.com/TUTORIALES/ley-de-kirchhoff-analisis-de-mallas/
+
+ 
+ H. Poor, An Introduction to Signal Detection and Estimation. New York: Springer-Verlag, 1985, ch. 4.
  
  
- 
- 
+ 3 puntos básicos para entender circuitos electrónicos - Zaragoza MakerSpace. (2021). Retrieved 5 January 2021, from https://zaragozamakerspace.com/index.php/3-puntos-basicos-para-entender-circuitos-electronicos/
  
  
  
