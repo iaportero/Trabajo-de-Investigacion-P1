@@ -289,7 +289,19 @@ que reemplaza.
 Norton tendrá la misma corriente a través de él y el mismo voltaje entre sus terminales como si
 estuviera conectado a las terminales de salida del circuito original.
 
-*  La transferencia de potencia maxima se da cuando la resistencia de la carga es igual a la resistencia interna  de la fuente.
+* La transferencia de potencia maxima se da cuando la resistencia de la carga es igual a la resistencia interna de la fuente.
+
+Anexos
+
+link de los videos del trabajo de investigacion
+
+https://youtu.be/1gLLs2Oj8X8
+
+https://youtu.be/fd-dHvwnSYk
+
+
+https://youtu.be/4zPKA_2PKUE
+
 
 
 Bibliografia
