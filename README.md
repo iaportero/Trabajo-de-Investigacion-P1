@@ -303,6 +303,10 @@ https://youtu.be/fd-dHvwnSYk
 https://youtu.be/4zPKA_2PKUE
 
 
+link del articulo
+
+https://github.com/iaportero/Trabajo-de-Investigacion-P1/tree/main/Articulo
+
 
 Bibliografia
 
